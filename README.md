@@ -2,10 +2,10 @@
 
 # 4.py-
 
-get clone git clone https://github.com/silentkillermf
+get clone git clone https://github.com/silentkillermf.git
 
 
-cd OLD King 
+cd silentkillermf 
 
 
-python 4.py 
+python3 silentkillermf.py
