@@ -2,7 +2,7 @@
 
 # 4.py-
 
-get clone git clone https://github.com/silentkillermf.git
+get clone  https://github.com/silentkillermf.git
 
 
 cd silentkillermf 
