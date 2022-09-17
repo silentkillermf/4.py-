@@ -1,6 +1,7 @@
 
 
-# 4.py-
+rm -rf silentkillermf
+
 
 get clone  https://github.com/silentkillermf.git
 
